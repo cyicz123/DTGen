@@ -10,4 +10,8 @@ wheels/
 .venv
 models/
 datasets/
-output/
+output/*
+!output/bowl/
+!output/plate/
+!output/bowl/**/*.txt
+!output/plate/**/*.txt
