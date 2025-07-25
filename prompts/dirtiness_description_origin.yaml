@@ -1,0 +1,63 @@
+plate:
+  slightly_dirty:
+    - with smears of greasy sauce residue # (油腻的酱汁残留)
+    - with a light dusting of flour-like residue white powder # (薄薄的一层面粉状残留物)
+    - with a light dusting of flour-like fine white powder # (薄薄的一层细白粉末)
+    - with a scattering of breadcrumbs # (散落着面包屑)
+    - with a pool of milky liquid and green specks # (乳白色的液体和绿色斑点)
+    - with smears of greasy food residue # (油腻的食物残渣)
+    - with a smear of oily residue and jam # (油腻的残留物和果酱)
+    - with a scattering of food crumbs # (散落着食物残渣)
+    - with a thin film of oily liquid residue # (一层油腻的液体残留物)
+    - with a scattering of fine breadcrumbs # (散落着细小的面包屑)
+    - a trace of sauce stains and crumbs # (一丝酱汁污渍和碎屑)
+  
+  moderately_dirty:
+    - with a scattering of food scraps and shrimp tails # (散落着食物残渣和虾尾)
+    - with a pile of thick dark sauce dregs # (一堆厚重的深色酱汁残渣)
+    - with some leftover noodle soup with vegetables # (一些剩菜汤和蔬菜)
+    - with some leftover soup and breadcrumbs # (一些剩汤和面包屑)
+    - with a thick smear of white cream # (厚厚的一层白奶油)
+    - with heavy smears of dark, gritty powder # (厚重的深色、粗糙的粉末)
+    - with some leftover sauce and herb residue # (一些剩酱和香料残留)
+    - with some leftover dark sauce and a piece of lettuce # (一些剩深色酱汁和一片生菜)
+
+    
+  
+  heavily_dirty:
+    - with a baked-on, carbonized crust of cheese and breadcrumbs that is now part of the plate's glaze # (一层烤焦、碳化的奶酪和面包屑，现已成为盘子釉质的一部分)
+    - with a slimy, putrid sludge from decomposed vegetables, leaving a dark, permanent stain # (腐烂蔬菜留下的粘滑腐臭污泥，留下了深色永久性污渍)
+    - with a hard, glossy, tar-like ring from a burnt sugar sauce, welded to the ceramic # (烧焦的糖酱留下的坚硬、光滑、沥青般的环，焊在了陶瓷上)
+    - with a sour, curdled residue of a cream-based sauce, with a yellowed, cracked surface # (一份奶油基酱汁的酸败凝固残留，表面发黄开裂)
+    - with a baked-on, inseparable layer of a forgotten gratin # (一层烤硬、无法分离的被遗忘的奶汁烤菜)
+  
+bowl:
+  slightly_dirty:
+    - with smears of greasy sauce residue # (油腻的酱汁残留)
+    - with a light dusting of flour-like residue white powder # (薄薄的一层面粉状残留物)
+    - with a light dusting of flour-like fine white powder # (薄薄的一层细白粉末)
+    - with a scattering of breadcrumbs # (散落着面包屑)
+    - with a pool of milky liquid and green specks # (乳白色的液体和绿色斑点)
+    - with smears of greasy food residue # (油腻的食物残渣)
+    - with a smear of oily residue and jam # (油腻的残留物和果酱)
+    - with a scattering of food crumbs # (散落着食物残渣)
+    - with a thin film of oily liquid residue # (一层油腻的液体残留物)
+    - with a scattering of fine breadcrumbs # (散落着细小的面包屑)
+    - a trace of sauce stains and crumbs # (一丝酱汁污渍和碎屑)
+  
+  moderately_dirty:
+    - with a scattering of food scraps and shrimp tails # (散落着食物残渣和虾尾)
+    - with a pile of thick dark sauce dregs # (一堆厚重的深色酱汁残渣)
+    - with some leftover noodle soup with vegetables # (一些剩菜汤和蔬菜)
+    - with some leftover soup and breadcrumbs # (一些剩汤和面包屑)
+    - with a thick smear of white cream # (厚厚的一层白奶油)
+    - with heavy smears of dark, gritty powder # (厚重的深色、粗糙的粉末)
+    - with some leftover sauce and herb residue # (一些剩酱和香料残留)
+    - with some leftover dark sauce and a piece of lettuce # (一些剩深色酱汁和一片生菜)
+  
+  heavily_dirty:
+    - with a baked-on, carbonized crust of cheese and breadcrumbs that is now part of the plate's glaze # (一层烤焦、碳化的奶酪和面包屑，现已成为盘子釉质的一部分)
+    - with a slimy, putrid sludge from decomposed vegetables, leaving a dark, permanent stain # (腐烂蔬菜留下的粘滑腐臭污泥，留下了深色永久性污渍)
+    - with a hard, glossy, tar-like ring from a burnt sugar sauce, welded to the ceramic # (烧焦的糖酱留下的坚硬、光滑、沥青般的环，焊在了陶瓷上)
+    - with a sour, curdled residue of a cream-based sauce, with a yellowed, cracked surface # (一份奶油基酱汁的酸败凝固残留，表面发黄开裂)
+    - with a baked-on, inseparable layer of a forgotten gratin # (一层烤硬、无法分离的被遗忘的奶汁烤菜)

@@ -1,0 +1,2699 @@
+name: plate_slightly_dirty_00273
+
+positive:drt_tableware, a translucent bone china plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00203
+
+positive:drt_tableware, a square matte black slate platter, with a pool of milky liquid and green specks, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00413
+
+positive:drt_tableware, a plate with a subtle, textured surface, with smears of greasy food residue, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00404
+
+positive:drt_tableware, a plate with a glossy black finish, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00294
+
+positive:drt_tableware, a glossy red charger plate, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00181
+
+positive:drt_tableware, an amber-colored glass plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00234
+
+positive:drt_tableware, an antique plate with a crackle glaze, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00448
+
+positive:drt_tableware, a plate with a detailed bird illustration, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00076
+
+positive:drt_tableware, a plate with a subtle, textured surface, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00072
+
+positive:drt_tableware, a blue and white checkered pattern plate, with smears of greasy food residue, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00071
+
+positive:drt_tableware, a pastel pink dessert plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00025
+
+positive:drt_tableware, a plate with a honeycomb texture, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00222
+
+positive:drt_tableware, a minimalist plate with a single black line accent, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00163
+
+positive:drt_tableware, a simple, elegant ivory-colored plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00151
+
+positive:drt_tableware, a rustic plate with a raw, unfinished edge, with a scattering of food crumbs, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00446
+
+positive:drt_tableware, a deep-dish pizza plate, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00017
+
+positive:drt_tableware, a plate with a subtle concentric circle design, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00162
+
+positive:drt_tableware, a shallow pasta plate with a wide rim, with a scattering of food crumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00140
+
+positive:drt_tableware, a deep forest green ceramic plate, with a scattering of food crumbs, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00034
+
+positive:drt_tableware, a deep forest green ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00420
+
+positive:drt_tableware, a plate with an impression of a fossil, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00400
+
+positive:drt_tableware, a plate with a bold, colorful pop-art design, with a scattering of breadcrumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00427
+
+positive:drt_tableware, a plate with a honeycomb texture, with a thin film of oily liquid residue, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00091
+
+positive:drt_tableware, a round white ceramic dinner plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00046
+
+positive:drt_tableware, a solid mustard yellow plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00265
+
+positive:drt_tableware, a blue and white checkered pattern plate, with smears of greasy sauce residue, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00138
+
+positive:drt_tableware, a slate grey, rectangular serving plate, with smears of greasy food residue, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00169
+
+positive:drt_tableware, a sea-green ceramic plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00249
+
+positive:drt_tableware, a polished marble cheese plate, with a smear of oily residue and jam, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00421
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00363
+
+positive:drt_tableware, a plate with a subtle, textured surface, a trace of sauce stains and crumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00358
+
+positive:drt_tableware, a handcrafted plate with an irregular, organic shape, with smears of greasy food residue, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00348
+
+positive:drt_tableware, a stark white, square minimalist plate, with a smear of oily residue and jam, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00403
+
+positive:drt_tableware, a plate with a raised-dot border, with a smear of oily residue and jam, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00302
+
+positive:drt_tableware, a plate with a honeycomb texture, with a pool of milky liquid and green specks, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00347
+
+positive:drt_tableware, a plate made from recycled glass, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00111
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00411
+
+positive:drt_tableware, a metallic-finish decorative plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00299
+
+positive:drt_tableware, a rough-textured earthenware plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00004
+
+positive:drt_tableware, a blue and white checkered pattern plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00422
+
+positive:drt_tableware, a lightweight bamboo eco-friendly plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00154
+
+positive:drt_tableware, a textured linen-finish ceramic plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00185
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with a thin film of oily liquid residue, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00383
+
+positive:drt_tableware, a plate with a detailed bird illustration, with a thin film of oily liquid residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00331
+
+positive:drt_tableware, a compartmentalized bento plate, with smears of greasy sauce residue, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00018
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a smear of oily residue and jam, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00020
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with a thin film of oily liquid residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00284
+
+positive:drt_tableware, a minimalist grey ceramic side plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00081
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a scattering of breadcrumbs, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00084
+
+positive:drt_tableware, a plate made from recycled glass, with a smear of oily residue and jam, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00254
+
+positive:drt_tableware, a plate with a Japanese kintsugi repair, with smears of greasy sauce residue, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00238
+
+positive:drt_tableware, a lightweight bamboo eco-friendly plate, with a smear of oily residue and jam, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00167
+
+positive:drt_tableware, a plate with a hand-painted striped pattern, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00175
+
+positive:drt_tableware, a rough-textured earthenware plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00431
+
+positive:drt_tableware, a metallic-finish decorative plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00304
+
+positive:drt_tableware, a plate with a sand-textured finish, with a smear of oily residue and jam, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00112
+
+positive:drt_tableware, a plate with a reactive glaze finish, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00013
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00120
+
+positive:drt_tableware, a plate featuring a classic damask pattern, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00334
+
+positive:drt_tableware, a round white ceramic dinner plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00280
+
+positive:drt_tableware, a plate with a navy blue and white nautical theme, with a pool of milky liquid and green specks, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00174
+
+positive:drt_tableware, a plate with a subtle, textured surface, with a thin film of oily liquid residue, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00329
+
+positive:drt_tableware, a plate with a scalloped edge, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00285
+
+positive:drt_tableware, a plate with a navy blue and white nautical theme, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00256
+
+positive:drt_tableware, a translucent bone china plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00070
+
+positive:drt_tableware, a stark white, square minimalist plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00339
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a thin film of oily liquid residue, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00384
+
+positive:drt_tableware, a plate with a playful cartoon character on it, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00361
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a thin film of oily liquid residue, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00325
+
+positive:drt_tableware, a plate with a glossy black finish, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00165
+
+positive:drt_tableware, an amber-colored glass plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00051
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a smear of oily residue and jam, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00030
+
+positive:drt_tableware, a glossy red charger plate, with a scattering of food crumbs, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00144
+
+positive:drt_tableware, a minimalist beige stoneware plate, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00113
+
+positive:drt_tableware, a minimalist beige stoneware plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00436
+
+positive:drt_tableware, a heavy cast iron serving platter, with a smear of oily residue and jam, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00262
+
+positive:drt_tableware, a blue and white checkered pattern plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00092
+
+positive:drt_tableware, a plate made from recycled glass, with a scattering of breadcrumbs, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00005
+
+positive:drt_tableware, a plate with a soft, pastel gradient, with a pool of milky liquid and green specks, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00148
+
+positive:drt_tableware, plate with a galaxy-themed reactive glaze, with a pool of milky liquid and green specks, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00362
+
+positive:drt_tableware, a porcelain plate with a gold rim, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00303
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with smears of greasy food residue, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00355
+
+positive:drt_tableware, a fine bone china plate with a translucent quality, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00392
+
+positive:drt_tableware, a plate with a vibrant mosaic pattern rim, with a smear of oily residue and jam, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00424
+
+positive:drt_tableware, a heavy, durable melamine plate, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00074
+
+positive:drt_tableware, a shallow pasta plate with a wide rim, with a scattering of food crumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00410
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00198
+
+positive:drt_tableware, a sea-green ceramic plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00043
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00248
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with smears of greasy food residue, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00306
+
+positive:drt_tableware, a plate with a single, elegant monogram, with a thin film of oily liquid residue, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00108
+
+positive:drt_tableware, a porcelain plate with a gold rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00319
+
+positive:drt_tableware, a translucent bone china plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00176
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00107
+
+positive:drt_tableware, a simple, elegant ivory-colored plate, with a scattering of food crumbs, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00219
+
+positive:drt_tableware, a lightweight bamboo eco-friendly plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00276
+
+positive:drt_tableware, a sea-green ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00106
+
+positive:drt_tableware, a simple, elegant ivory-colored plate, with a smear of oily residue and jam, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00035
+
+positive:drt_tableware, a plate with a matte, velvety texture, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00155
+
+positive:drt_tableware, a square plate with rounded corners, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00135
+
+positive:drt_tableware, a plate with a turquoise crackle glaze, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00021
+
+positive:drt_tableware, a plate with a bold, colorful pop-art design, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00150
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, with a smear of oily residue and jam, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00166
+
+positive:drt_tableware, a pastel pink dessert plate, with smears of greasy sauce residue, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00156
+
+positive:drt_tableware, a frosted glass appetizer plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00090
+
+positive:drt_tableware, an antique plate with a crackle glaze, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00357
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00214
+
+positive:drt_tableware, a plate with an intricate lace pattern pressed into the clay, with a pool of milky liquid and green specks, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00142
+
+positive:drt_tableware, a plate with a Japanese kintsugi repair, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00370
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, with a smear of oily residue and jam, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00129
+
+positive:drt_tableware, a plate with a retro 70s-style pattern, with a scattering of food crumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00414
+
+positive:drt_tableware, a plate with a reactive glaze finish, with a smear of oily residue and jam, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00236
+
+positive:drt_tableware, a plate with a matte, velvety texture, with a pool of milky liquid and green specks, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00063
+
+positive:drt_tableware, a compartmentalized bento plate, with a scattering of food crumbs, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00247
+
+positive:drt_tableware, a solid mustard yellow plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00064
+
+positive:drt_tableware, a traditional enamel plate with a blue rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00315
+
+positive:drt_tableware, a plate with a hand-painted striped pattern, with a smear of oily residue and jam, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00215
+
+positive:drt_tableware, a square matte black slate platter, with smears of greasy food residue, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00344
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00282
+
+positive:drt_tableware, an iridescent glass plate that shimmers, with a smear of oily residue and jam, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00224
+
+positive:drt_tableware, a plate with a bold, colorful pop-art design, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00263
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00313
+
+positive:drt_tableware, a plate with an abstract ink wash design, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00291
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with a pool of milky liquid and green specks, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00353
+
+positive:drt_tableware, a sky blue ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00308
+
+positive:drt_tableware, a bright yellow plastic picnic plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00283
+
+positive:drt_tableware, a plate with a scalloped edge, with a scattering of food crumbs, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00243
+
+positive:drt_tableware, a plate with a navy blue and white nautical theme, with smears of greasy sauce residue, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00292
+
+positive:drt_tableware, a translucent bone china plate, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00006
+
+positive:drt_tableware, plate with a galaxy-themed reactive glaze, with smears of greasy food residue, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00114
+
+positive:drt_tableware, a plate with a single, elegant monogram, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00024
+
+positive:drt_tableware, a heavy, durable melamine plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00252
+
+positive:drt_tableware, a plate with a subtle, textured surface, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00444
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00330
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, a trace of sauce stains and crumbs, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00022
+
+positive:drt_tableware, a plate with a subtle, textured surface, a trace of sauce stains and crumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00050
+
+positive:drt_tableware, a metallic-finish decorative plate, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00408
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with smears of greasy sauce residue, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00345
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a scattering of breadcrumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00089
+
+positive:drt_tableware, a rough-textured earthenware plate, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00266
+
+positive:drt_tableware, a minimalist beige stoneware plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00073
+
+positive:drt_tableware, a plate with a turquoise crackle glaze, with a smear of oily residue and jam, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00134
+
+positive:drt_tableware, a translucent bone china plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00201
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00255
+
+positive:drt_tableware, a deep-dish pizza plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00136
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00409
+
+positive:drt_tableware, a plate with an intricate lace pattern pressed into the clay, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00367
+
+positive:drt_tableware, a large, oval-shaped fish platter, with a scattering of breadcrumbs, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00450
+
+positive:drt_tableware, an amber-colored glass plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00432
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00078
+
+positive:drt_tableware, a stark white, square minimalist plate, with smears of greasy sauce residue, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00180
+
+positive:drt_tableware, an earthenware plate with a terracotta finish, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00082
+
+positive:drt_tableware, a plate with a raised-dot border, with a pool of milky liquid and green specks, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00441
+
+positive:drt_tableware, a large, oval-shaped fish platter, with smears of greasy sauce residue, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00359
+
+positive:drt_tableware, a minimalist plate with a single black line accent, with a smear of oily residue and jam, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00235
+
+positive:drt_tableware, a charcoal-colored stone plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00212
+
+positive:drt_tableware, a slate grey, rectangular serving plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00102
+
+positive:drt_tableware, a round white ceramic dinner plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00449
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00172
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with a smear of oily residue and jam, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00131
+
+positive:drt_tableware, a plate with a matte, velvety texture, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00094
+
+positive:drt_tableware, a deep-dish pizza plate, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00105
+
+positive:drt_tableware, a plate with a rustic, unglazed rim, with smears of greasy food residue, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00324
+
+positive:drt_tableware, a minimalist grey ceramic side plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00047
+
+positive:drt_tableware, a handcrafted plate with an irregular, organic shape, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00251
+
+positive:drt_tableware, a triangular-shaped appetizer plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00438
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, with a thin film of oily liquid residue, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00033
+
+positive:drt_tableware, a triangular-shaped appetizer plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00228
+
+positive:drt_tableware, an earthenware plate with a terracotta finish, with a scattering of food crumbs, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00028
+
+positive:drt_tableware, a minimalist grey ceramic side plate, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00205
+
+positive:drt_tableware, a speckled off-white stoneware plate, with a smear of oily residue and jam, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00430
+
+positive:drt_tableware, an octagonal-shaped plate, with smears of greasy sauce residue, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00052
+
+positive:drt_tableware, a plate with a detailed bird illustration, with a scattering of food crumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00012
+
+positive:drt_tableware, a plate with an impression of a fossil, with smears of greasy sauce residue, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00158
+
+positive:drt_tableware, a handcrafted plate with an irregular, organic shape, with a scattering of breadcrumbs, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00316
+
+positive:drt_tableware, a porcelain plate with a gold rim, with a scattering of food crumbs, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00244
+
+positive:drt_tableware, a minimalist grey ceramic side plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00433
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00278
+
+positive:drt_tableware, a plate with a navy blue and white nautical theme, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00287
+
+positive:drt_tableware, a solid mustard yellow plate, with smears of greasy sauce residue, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00042
+
+positive:drt_tableware, a plate with a rustic, unglazed rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00268
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a scattering of breadcrumbs, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00206
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00426
+
+positive:drt_tableware, a deep forest green ceramic plate, with a scattering of food crumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00171
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00194
+
+positive:drt_tableware, a fine bone china plate with a translucent quality, with a smear of oily residue and jam, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00141
+
+positive:drt_tableware, a metallic-finish decorative plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00428
+
+positive:drt_tableware, a plate featuring a classic damask pattern, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00381
+
+positive:drt_tableware, a plate with an impression of a fossil, with a smear of oily residue and jam, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00007
+
+positive:drt_tableware, a slate grey, rectangular serving plate, with a smear of oily residue and jam, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00054
+
+positive:drt_tableware, a blue and white checkered pattern plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00233
+
+positive:drt_tableware, a sky blue ceramic plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00220
+
+positive:drt_tableware, a heavy, grooved stoneware plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00301
+
+positive:drt_tableware, a large, oval-shaped fish platter, with a scattering of breadcrumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00397
+
+positive:drt_tableware, a sea-green ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00289
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00221
+
+positive:drt_tableware, a plate with a subtle, textured surface, with smears of greasy sauce residue, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00088
+
+positive:drt_tableware, a plate with a bold, colorful pop-art design, a trace of sauce stains and crumbs, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00242
+
+positive:drt_tableware, a plate with a single, elegant monogram, a trace of sauce stains and crumbs, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00321
+
+positive:drt_tableware, plate with a galaxy-themed reactive glaze, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00109
+
+positive:drt_tableware, a rustic plate with a raw, unfinished edge, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00240
+
+positive:drt_tableware, a slate grey, rectangular serving plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00373
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00095
+
+positive:drt_tableware, a heavy, durable melamine plate, with a smear of oily residue and jam, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00360
+
+positive:drt_tableware, a plate with a detailed bird illustration, with a scattering of food crumbs, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00058
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00310
+
+positive:drt_tableware, a plate with an intricate lace pattern pressed into the clay, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00388
+
+positive:drt_tableware, a plate with a hand-painted striped pattern, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00271
+
+positive:drt_tableware, a plate with a turquoise crackle glaze, with a smear of oily residue and jam, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00019
+
+positive:drt_tableware, a simple glass plate with a beveled edge, with a scattering of food crumbs, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00440
+
+positive:drt_tableware, a plate with a bold, colorful pop-art design, a trace of sauce stains and crumbs, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00099
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, a trace of sauce stains and crumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00318
+
+positive:drt_tableware, a sky blue ceramic plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00075
+
+positive:drt_tableware, an earthenware plate with a terracotta finish, with a thin film of oily liquid residue, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00350
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00049
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00274
+
+positive:drt_tableware, a lightweight bamboo eco-friendly plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00159
+
+positive:drt_tableware, a plate with a single, elegant monogram, with a pool of milky liquid and green specks, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00327
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a scattering of food crumbs, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00192
+
+positive:drt_tableware, a large, oval-shaped fish platter, with a pool of milky liquid and green specks, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00418
+
+positive:drt_tableware, a plate with a raised-dot border, a trace of sauce stains and crumbs, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00407
+
+positive:drt_tableware, a blue and white checkered pattern plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00059
+
+positive:drt_tableware, a plate with a detailed bird illustration, with a scattering of breadcrumbs, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00125
+
+positive:drt_tableware, a metallic-finish decorative plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00391
+
+positive:drt_tableware, a plate with a simple, elegant silver rim, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00119
+
+positive:drt_tableware, an octagonal-shaped plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00387
+
+positive:drt_tableware, a pastel pink dessert plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00382
+
+positive:drt_tableware, a plate with a playful cartoon character on it, with a scattering of food crumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00115
+
+positive:drt_tableware, a sea-green ceramic plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00178
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00395
+
+positive:drt_tableware, a square plate with rounded corners, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00352
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00202
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with a scattering of breadcrumbs, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00068
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00117
+
+positive:drt_tableware, a plate with an abstract ink wash design, with a smear of oily residue and jam, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00396
+
+positive:drt_tableware, a frosted glass appetizer plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00103
+
+positive:drt_tableware, a vintage tin plate with a faded advertisement, with a scattering of breadcrumbs, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00443
+
+positive:drt_tableware, a plate with a rustic, unglazed rim, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00227
+
+positive:drt_tableware, a plate with a playful cartoon character on it, with a smear of oily residue and jam, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00130
+
+positive:drt_tableware, a round white ceramic dinner plate, with a thin film of oily liquid residue, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00393
+
+positive:drt_tableware, a large, rustic stoneware serving plate, with a scattering of food crumbs, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00374
+
+positive:drt_tableware, a simple glass plate with a beveled edge, a trace of sauce stains and crumbs, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00415
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with a scattering of food crumbs, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00041
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a scattering of food crumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00193
+
+positive:drt_tableware, a simple, flat white earthenware plate, with smears of greasy food residue, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00232
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with smears of greasy sauce residue, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00207
+
+positive:drt_tableware, a simple, unadorned wooden plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00386
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with smears of greasy sauce residue, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00229
+
+positive:drt_tableware, a sky blue ceramic plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00195
+
+positive:drt_tableware, a sea-green ceramic plate, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00031
+
+positive:drt_tableware, a porcelain plate with a gold rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00122
+
+positive:drt_tableware, a plate with an intricate lace pattern pressed into the clay, with smears of greasy sauce residue, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00305
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a scattering of food crumbs, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00406
+
+positive:drt_tableware, an earthenware plate with a terracotta finish, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00149
+
+positive:drt_tableware, a traditional enamel plate with a blue rim, with smears of greasy food residue, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00209
+
+positive:drt_tableware, a modern plate with bold geometric shapes, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00298
+
+positive:drt_tableware, a pastel pink dessert plate, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00398
+
+positive:drt_tableware, a vintage tin plate with a faded advertisement, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00435
+
+positive:drt_tableware, a plate with a vibrant mosaic pattern rim, with smears of greasy food residue, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00184
+
+positive:drt_tableware, a porcelain plate with a gold rim, with a scattering of food crumbs, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00390
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00093
+
+positive:drt_tableware, a simple, unadorned wooden plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00164
+
+positive:drt_tableware, a plate with a Japanese kintsugi repair, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00445
+
+positive:drt_tableware, a plate with a subtle, textured surface, with a pool of milky liquid and green specks, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00179
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00354
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00123
+
+positive:drt_tableware, a charcoal-colored stone plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00267
+
+positive:drt_tableware, a pastel pink dessert plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00168
+
+positive:drt_tableware, a round white ceramic dinner plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00375
+
+positive:drt_tableware, a plate with a honeycomb texture, with smears of greasy sauce residue, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00259
+
+positive:drt_tableware, an antique plate with a crackle glaze, with smears of greasy food residue, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00257
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with a scattering of breadcrumbs, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00152
+
+positive:drt_tableware, a heavy, durable melamine plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00055
+
+positive:drt_tableware, a vintage tin plate with a faded advertisement, a trace of sauce stains and crumbs, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00137
+
+positive:drt_tableware, a plate with a playful cartoon character on it, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00100
+
+positive:drt_tableware, an antique plate with a crackle glaze, with smears of greasy sauce residue, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00423
+
+positive:drt_tableware, an antique plate with a crackle glaze, with a pool of milky liquid and green specks, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00246
+
+positive:drt_tableware, a polished marble cheese plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00290
+
+positive:drt_tableware, a plate with a rustic, unglazed rim, with a scattering of breadcrumbs, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00342
+
+positive:drt_tableware, a square plate with rounded corners, with smears of greasy sauce residue, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00269
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a pool of milky liquid and green specks, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00323
+
+positive:drt_tableware, a flat, rimless serving platter, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00241
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00286
+
+positive:drt_tableware, a fine bone china plate with a translucent quality, a trace of sauce stains and crumbs, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00196
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with a thin film of oily liquid residue, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00378
+
+positive:drt_tableware, an iridescent glass plate that shimmers, with a scattering of breadcrumbs, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00223
+
+positive:drt_tableware, a bright yellow plastic picnic plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00317
+
+positive:drt_tableware, a plate with a turquoise crackle glaze, with a thin film of oily liquid residue, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00027
+
+positive:drt_tableware, a plate with an impression of a fossil, with a pool of milky liquid and green specks, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00417
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00124
+
+positive:drt_tableware, a plate with a subtle concentric circle design, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00346
+
+positive:drt_tableware, a charcoal-colored stone plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00380
+
+positive:drt_tableware, a plate with a soft, pastel gradient, with smears of greasy food residue, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00145
+
+positive:drt_tableware, a polished marble cheese plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00250
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with a scattering of food crumbs, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00402
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with smears of greasy food residue, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00200
+
+positive:drt_tableware, a traditional enamel plate with a blue rim, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00067
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with smears of greasy sauce residue, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00011
+
+positive:drt_tableware, a porcelain plate with cherry blossom motifs, a trace of sauce stains and crumbs, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00322
+
+positive:drt_tableware, a blue and white checkered pattern plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00372
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a thin film of oily liquid residue, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00434
+
+positive:drt_tableware, a polished copper charger plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00128
+
+positive:drt_tableware, a plate with a single, elegant monogram, with a smear of oily residue and jam, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00365
+
+positive:drt_tableware, a plate with a subtle, textured surface, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00187
+
+positive:drt_tableware, a simple, elegant ivory-colored plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00314
+
+positive:drt_tableware, a plate with a glossy black finish, with smears of greasy food residue, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00216
+
+positive:drt_tableware, a plate with a single, elegant monogram, with a smear of oily residue and jam, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00157
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00300
+
+positive:drt_tableware, a plate with a reactive glaze finish, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00213
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00225
+
+positive:drt_tableware, a solid mustard yellow plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00062
+
+positive:drt_tableware, a plate with an abstract ink wash design, with a smear of oily residue and jam, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00118
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with a scattering of food crumbs, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00139
+
+positive:drt_tableware, a plate made from recycled glass, with a smear of oily residue and jam, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00121
+
+positive:drt_tableware, a pastel pink dessert plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00307
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00053
+
+positive:drt_tableware, an octagonal-shaped plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00226
+
+positive:drt_tableware, a sea-green ceramic plate, with smears of greasy food residue, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00258
+
+positive:drt_tableware, a metallic-finish decorative plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00170
+
+positive:drt_tableware, a minimalist plate with a single black line accent, with a pool of milky liquid and green specks, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00037
+
+positive:drt_tableware, a porcelain plate with cherry blossom motifs, with a scattering of breadcrumbs, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00208
+
+positive:drt_tableware, a plate with a reactive glaze finish, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00416
+
+positive:drt_tableware, a plate with a vibrant mosaic pattern rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00003
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00405
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00371
+
+positive:drt_tableware, a large, oval-shaped fish platter, with a scattering of food crumbs, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00153
+
+positive:drt_tableware, a plate with a scalloped edge, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00356
+
+positive:drt_tableware, a plate with a watercolor floral design, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00039
+
+positive:drt_tableware, a porcelain plate with cherry blossom motifs, with smears of greasy food residue, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00401
+
+positive:drt_tableware, a plate with a honeycomb texture, with a pool of milky liquid and green specks, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00177
+
+positive:drt_tableware, a plate with a soft, pastel gradient, with smears of greasy sauce residue, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00014
+
+positive:drt_tableware, a plate featuring a classic damask pattern, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00337
+
+positive:drt_tableware, a blue and white checkered pattern plate, with a smear of oily residue and jam, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00437
+
+positive:drt_tableware, a stark white, square minimalist plate, with a scattering of food crumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00230
+
+positive:drt_tableware, a solid cobalt blue glass plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00045
+
+positive:drt_tableware, a plate with a detailed bird illustration, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00085
+
+positive:drt_tableware, a solid mustard yellow plate, with a scattering of food crumbs, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00127
+
+positive:drt_tableware, a classic porcelain plate with a blue willow pattern, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00126
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with a pool of milky liquid and green specks, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00060
+
+positive:drt_tableware, a plate with an abstract ink wash design, with a pool of milky liquid and green specks, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00097
+
+positive:drt_tableware, a simple, unadorned wooden plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00341
+
+positive:drt_tableware, a glossy red charger plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00032
+
+positive:drt_tableware, a rough-textured earthenware plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00293
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a smear of oily residue and jam, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00087
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00425
+
+positive:drt_tableware, a large, rustic stoneware serving plate, with a smear of oily residue and jam, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00231
+
+positive:drt_tableware, a round white ceramic dinner plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00065
+
+positive:drt_tableware, a flat, rimless serving platter, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00008
+
+positive:drt_tableware, a plate with a retro 70s-style pattern, with a scattering of food crumbs, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00036
+
+positive:drt_tableware, a minimalist grey ceramic side plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00199
+
+positive:drt_tableware, a plate with a reactive glaze finish, with smears of greasy sauce residue, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00379
+
+positive:drt_tableware, a textured linen-finish ceramic plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00275
+
+positive:drt_tableware, a deep-dish pizza plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00069
+
+positive:drt_tableware, a heavy, grooved stoneware plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00038
+
+positive:drt_tableware, a rough-textured earthenware plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00343
+
+positive:drt_tableware, a plate with a shiny, mirror-like chrome finish, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00016
+
+positive:drt_tableware, a large, oval-shaped fish platter, with a pool of milky liquid and green specks, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00160
+
+positive:drt_tableware, an earthenware plate with a terracotta finish, with smears of greasy food residue, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00015
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with a scattering of breadcrumbs, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00385
+
+positive:drt_tableware, an iridescent glass plate that shimmers, a trace of sauce stains and crumbs, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00368
+
+positive:drt_tableware, a translucent bone china plate, with a pool of milky liquid and green specks, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00096
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a scattering of food crumbs, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00188
+
+positive:drt_tableware, a glossy red charger plate, with smears of greasy sauce residue, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00104
+
+positive:drt_tableware, a classic porcelain plate with a blue willow pattern, with a pool of milky liquid and green specks, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00394
+
+positive:drt_tableware, a traditional enamel plate with a blue rim, with a thin film of oily liquid residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00412
+
+positive:drt_tableware, a classic porcelain plate with a blue willow pattern, with a pool of milky liquid and green specks, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00010
+
+positive:drt_tableware, a shallow pasta plate with a wide rim, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00312
+
+positive:drt_tableware, a charcoal-colored stone plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00133
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with smears of greasy sauce residue, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00377
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00288
+
+positive:drt_tableware, a plate with a soft, pastel gradient, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00101
+
+positive:drt_tableware, a lustrous pearl-finish plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00333
+
+positive:drt_tableware, a plate with an intricate lace pattern pressed into the clay, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00277
+
+positive:drt_tableware, a heavy, durable melamine plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00295
+
+positive:drt_tableware, a high-gloss white porcelain plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00044
+
+positive:drt_tableware, a bright yellow plastic picnic plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00061
+
+positive:drt_tableware, a plate featuring a classic damask pattern, with smears of greasy food residue, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00029
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a smear of oily residue and jam, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00281
+
+positive:drt_tableware, a plate with a turquoise crackle glaze, with smears of greasy food residue, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00261
+
+positive:drt_tableware, a clear glass dessert plate, with a scattering of food crumbs, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00442
+
+positive:drt_tableware, a heavy, durable melamine plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00447
+
+positive:drt_tableware, a fine bone china plate with a translucent quality, with a smear of oily residue and jam, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00086
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with a thin film of oily liquid residue, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00204
+
+positive:drt_tableware, a triangular-shaped appetizer plate, with smears of greasy food residue, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00186
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00332
+
+positive:drt_tableware, a metallic-finish decorative plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00110
+
+positive:drt_tableware, a modern plate with bold geometric shapes, a trace of sauce stains and crumbs, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00297
+
+positive:drt_tableware, a plate with a Japanese kintsugi repair, a trace of sauce stains and crumbs, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00364
+
+positive:drt_tableware, an iridescent glass plate that shimmers, with smears of greasy sauce residue, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00311
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00270
+
+positive:drt_tableware, a heavy cast iron serving platter, with smears of greasy food residue, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00183
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, with a smear of oily residue and jam, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00132
+
+positive:drt_tableware, a vintage plate with a delicate floral pattern, a trace of sauce stains and crumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00083
+
+positive:drt_tableware, a square matte black slate platter, with smears of greasy food residue, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00376
+
+positive:drt_tableware, a round white ceramic dinner plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00326
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a smear of oily residue and jam, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00237
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with smears of greasy food residue, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00189
+
+positive:drt_tableware, a metallic-finish decorative plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00190
+
+positive:drt_tableware, a polished copper charger plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00217
+
+positive:drt_tableware, a minimalist beige stoneware plate, with a scattering of food crumbs, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00335
+
+positive:drt_tableware, a plate with a single, off-center brush stroke, with a pool of milky liquid and green specks, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00173
+
+positive:drt_tableware, a plate featuring a classic damask pattern, with a scattering of food crumbs, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00146
+
+positive:drt_tableware, a plate with a Japanese kintsugi repair, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00338
+
+positive:drt_tableware, a plate with a subtle marble vein pattern, with a scattering of food crumbs, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00419
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, with smears of greasy sauce residue, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00264
+
+positive:drt_tableware, a matte grey stoneware plate with a raised edge, a trace of sauce stains and crumbs, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00328
+
+positive:drt_tableware, a plate with a watercolor floral design, with a thin film of oily liquid residue, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00191
+
+positive:drt_tableware, a triangular-shaped appetizer plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00260
+
+positive:drt_tableware, a heavy, durable melamine plate, with a smear of oily residue and jam, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00389
+
+positive:drt_tableware, a plate with a reactive glaze finish, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00080
+
+positive:drt_tableware, a plate with a honeycomb texture, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00143
+
+positive:drt_tableware, a speckled off-white stoneware plate, a trace of sauce stains and crumbs, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00066
+
+positive:drt_tableware, a square plate with rounded corners, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00116
+
+positive:drt_tableware, a plate with an impression of a fossil, with smears of greasy food residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00439
+
+positive:drt_tableware, a simple, unadorned wooden plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00336
+
+positive:drt_tableware, a lustrous pearl-finish plate, with smears of greasy food residue, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00369
+
+positive:drt_tableware, a plate with a hand-thrown, artisanal feel, with smears of greasy food residue, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00040
+
+positive:drt_tableware, a plate with a honeycomb texture, with a smear of oily residue and jam, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00429
+
+positive:drt_tableware, a handcrafted plate with an irregular, organic shape, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00002
+
+positive:drt_tableware, a large, rustic stoneware serving plate, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00098
+
+positive:drt_tableware, a dark acacia wood plate, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00351
+
+positive:drt_tableware, a plate with a subtle concentric circle design, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00048
+
+positive:drt_tableware, a sky blue ceramic plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00245
+
+positive:drt_tableware, a plate with a rustic, unglazed rim, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00079
+
+positive:drt_tableware, a modern plate with bold geometric shapes, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00279
+
+positive:drt_tableware, a rustic plate with a raw, unfinished edge, with a scattering of breadcrumbs, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00077
+
+positive:drt_tableware, an antique plate with a crackle glaze, a trace of sauce stains and crumbs, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00197
+
+positive:drt_tableware, a square sushi plate made of bamboo, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00218
+
+positive:drt_tableware, a square plate with rounded corners, with a thin film of oily liquid residue, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00296
+
+positive:drt_tableware, a matte grey stoneware plate with a raised edge, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00026
+
+positive:drt_tableware, a polished marble cheese plate, with a scattering of breadcrumbs, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00309
+
+positive:drt_tableware, a simple, flat white earthenware plate, with smears of greasy sauce residue, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00320
+
+positive:drt_tableware, a plate with a Japanese-style wave motif, with smears of greasy sauce residue, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00023
+
+positive:drt_tableware, a simple glass plate with a beveled edge, with smears of greasy sauce residue, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00239
+
+positive:drt_tableware, an octagonal-shaped plate, with a scattering of food crumbs, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00211
+
+positive:drt_tableware, an antique plate with a crackle glaze, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00349
+
+positive:drt_tableware, a plate with a subtle concentric circle design, with a scattering of food crumbs, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00182
+
+positive:drt_tableware, a plate with a repeating fish scale pattern, with smears of greasy food residue, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00210
+
+positive:drt_tableware, a leaf-shaped ceramic serving dish, with smears of greasy sauce residue, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00001
+
+positive:drt_tableware, a sky blue ceramic plate, with smears of greasy sauce residue, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00366
+
+positive:drt_tableware, a plate with an abstract ink wash design, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00253
+
+positive:drt_tableware, an antique plate with a crackle glaze, a trace of sauce stains and crumbs, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00147
+
+positive:drt_tableware, a rustic plate with a raw, unfinished edge, with a scattering of breadcrumbs, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00056
+
+positive:drt_tableware, a lustrous pearl-finish plate, with smears of greasy sauce residue, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00057
+
+positive:drt_tableware, a porcelain plate with cherry blossom motifs, with a light dusting of flour-like residue white powder, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00272
+
+positive:drt_tableware, plate with a galaxy-themed reactive glaze, with a scattering of food crumbs, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00161
+
+positive:drt_tableware, a slate grey, rectangular serving plate, with a smear of oily residue and jam, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00399
+
+positive:drt_tableware, a heavyweight, restaurant-quality white plate, with a light dusting of flour-like fine white powder, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00340
+
+positive:drt_tableware, a cream-colored plate with a brown speckled finish, with a scattering of fine breadcrumbs, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_slightly_dirty_00009
+
+positive:drt_tableware, a clear glass dessert plate, with a thin film of oily liquid residue, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:

@@ -21,11 +21,11 @@ def generate_prompts(tableware_file, dirtiness_file, background_file, tableware_
     
     # 加载配置文件
     tableware_config = load_yaml_config(tableware_file)
-    dirtiness_config = load_yaml_config(dirtiness_file)
     background_config = load_yaml_config(background_file)
     
     # 定义脏污程度与数值的映射
     dirtiness_mapping = {
+        'clean': 0.0,
         'slightly_dirty': 0.25,
         'moderately_dirty': 0.6,
         'heavily_dirty': 1.0
@@ -36,24 +36,34 @@ def generate_prompts(tableware_file, dirtiness_file, background_file, tableware_
     
     # 获取对应的描述列表
     tableware_descriptions = tableware_config[tableware_type]
-    dirtiness_descriptions = dirtiness_config[tableware_type][dirtiness_level]
     background_descriptions = background_config['backgrounds']  # 假设背景配置在backgrounds键下
     quantitative_value = dirtiness_mapping[dirtiness_level]
+    
+    # 对于非clean级别，需要加载脏污描述
+    if dirtiness_level != 'clean':
+        dirtiness_config = load_yaml_config(dirtiness_file)
+        dirtiness_descriptions = dirtiness_config[tableware_type][dirtiness_level]
     
     # 随机生成指定数量的prompts
     for i in range(num_prompts):
         # 随机选择描述
         tableware_desc = random.choice(tableware_descriptions)
-        dirtiness_desc = random.choice(dirtiness_descriptions)
         background_desc = random.choice(background_descriptions)
         
         # 清理描述，去掉中文注释
         clean_description = tableware_desc.split('#')[0].strip()
-        clean_dirtiness_desc = dirtiness_desc.split('#')[0].strip()
         clean_background_desc = background_desc.split('#')[0].strip()
         
-        # 生成prompt
-        prompt = f"drt_tableware, {clean_description}, {clean_dirtiness_desc}, photorealistic, top-down view, {clean_background_desc}"
+        # 根据是否为clean生成不同的prompt
+        if dirtiness_level == 'clean':
+            # 干净餐具的prompt模板
+            prompt = f"empty, {clean_description}, photorealistic, top-down view, {clean_background_desc}"
+        else:
+            # 脏污餐具的prompt模板
+            dirtiness_desc = dirtiness_descriptions[i % len(dirtiness_descriptions)]
+            clean_dirtiness_desc = dirtiness_desc.split('#')[0].strip()
+            prompt = f"drt_tableware, {clean_description}, {clean_dirtiness_desc}, photorealistic, top-down view, {clean_background_desc}"
+        
         prompts.append((prompt, quantitative_value))
     
     return prompts
@@ -85,8 +95,8 @@ def parse_arguments():
                         help='餐具描述配置文件路径 (默认: prompts/tableware_description.yaml)')
     
     parser.add_argument('-d', '--dirtiness', 
-                        default='prompts/dirtiness_description.yaml',
-                        help='脏污程度描述配置文件路径 (默认: prompts/dirtiness_description.yaml)')
+                        default='prompts/dirtiness_description_origin.yaml',
+                        help='脏污程度描述配置文件路径 (默认: prompts/dirtiness_description_origin.yaml)')
     
     parser.add_argument('-b', '--background', 
                         default='prompts/background.yaml',
@@ -98,9 +108,9 @@ def parse_arguments():
                         help='餐具类型 (plate 或 bowl)')
     
     parser.add_argument('--dirtiness-level', 
-                        choices=['slightly_dirty', 'moderately_dirty', 'heavily_dirty'],
+                        choices=['clean', 'slightly_dirty', 'moderately_dirty', 'heavily_dirty'],
                         required=True,
-                        help='脏污程度 (slightly_dirty, moderately_dirty, heavily_dirty)')
+                        help='脏污程度 (clean, slightly_dirty, moderately_dirty, heavily_dirty)')
     
     parser.add_argument('-n', '--num-prompts', 
                         type=int,
@@ -139,7 +149,8 @@ def main():
         print(f"错误：找不到餐具描述文件 {args.tableware}")
         return
     
-    if not os.path.exists(args.dirtiness):
+    # 只有非clean级别才需要检查脏污描述文件
+    if args.dirtiness_level != 'clean' and not os.path.exists(args.dirtiness):
         print(f"错误：找不到脏污描述文件 {args.dirtiness}")
         return
     

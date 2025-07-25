@@ -1,0 +1,2699 @@
+name: plate_clean_00045
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00410
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00429
+
+positive:empty, a handcrafted plate with an irregular, organic shape, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00199
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00170
+
+positive:empty, a minimalist plate with a single black line accent, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00396
+
+positive:empty, a frosted glass appetizer plate, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00411
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00077
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00403
+
+positive:empty, a plate with a raised-dot border, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00307
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_clean_00277
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00308
+
+positive:empty, a bright yellow plastic picnic plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00106
+
+positive:empty, a simple, elegant ivory-colored plate, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00383
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00076
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00211
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_clean_00070
+
+positive:empty, a stark white, square minimalist plate, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00227
+
+positive:empty, a plate with a playful cartoon character on it, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00021
+
+positive:empty, a plate with a bold, colorful pop-art design, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00092
+
+positive:empty, a plate made from recycled glass, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00062
+
+positive:empty, a plate with an abstract ink wash design, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00155
+
+positive:empty, a square plate with rounded corners, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00127
+
+positive:empty, a classic porcelain plate with a blue willow pattern, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00440
+
+positive:empty, a plate with a bold, colorful pop-art design, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00421
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00081
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00162
+
+positive:empty, a shallow pasta plate with a wide rim, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00292
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00006
+
+positive:empty, plate with a galaxy-themed reactive glaze, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00027
+
+positive:empty, a plate with an impression of a fossil, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00444
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00020
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00441
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00063
+
+positive:empty, a compartmentalized bento plate, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00362
+
+positive:empty, a porcelain plate with a gold rim, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00075
+
+positive:empty, an earthenware plate with a terracotta finish, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00347
+
+positive:empty, a plate made from recycled glass, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00034
+
+positive:empty, a deep forest green ceramic plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00089
+
+positive:empty, a rough-textured earthenware plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00247
+
+positive:empty, a solid mustard yellow plate, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00446
+
+positive:empty, a deep-dish pizza plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00336
+
+positive:empty, a lustrous pearl-finish plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00109
+
+positive:empty, a rustic plate with a raw, unfinished edge, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00327
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00083
+
+positive:empty, a square matte black slate platter, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00005
+
+positive:empty, a plate with a soft, pastel gradient, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00074
+
+positive:empty, a shallow pasta plate with a wide rim, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00002
+
+positive:empty, a large, rustic stoneware serving plate, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00372
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00341
+
+positive:empty, a glossy red charger plate, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00128
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00398
+
+positive:empty, a vintage tin plate with a faded advertisement, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00426
+
+positive:empty, a deep forest green ceramic plate, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00397
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00314
+
+positive:empty, a plate with a glossy black finish, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00288
+
+positive:empty, a plate with a soft, pastel gradient, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00266
+
+positive:empty, a minimalist beige stoneware plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00306
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00153
+
+positive:empty, a plate with a scalloped edge, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00409
+
+positive:empty, a plate with an intricate lace pattern pressed into the clay, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00235
+
+positive:empty, a charcoal-colored stone plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00168
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00384
+
+positive:empty, a plate with a playful cartoon character on it, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00414
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00101
+
+positive:empty, a lustrous pearl-finish plate, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00041
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00418
+
+positive:empty, a plate with a raised-dot border, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00371
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00147
+
+positive:empty, a rustic plate with a raw, unfinished edge, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00172
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00124
+
+positive:empty, a plate with a subtle concentric circle design, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00376
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00056
+
+positive:empty, a lustrous pearl-finish plate, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00035
+
+positive:empty, a plate with a matte, velvety texture, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00040
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00236
+
+positive:empty, a plate with a matte, velvety texture, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00363
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00425
+
+positive:empty, a large, rustic stoneware serving plate, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00179
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00130
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00259
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00413
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00187
+
+positive:empty, a simple, elegant ivory-colored plate, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00033
+
+positive:empty, a triangular-shaped appetizer plate, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_clean_00215
+
+positive:empty, a square matte black slate platter, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00305
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00057
+
+positive:empty, a porcelain plate with cherry blossom motifs, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00260
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00073
+
+positive:empty, a plate with a turquoise crackle glaze, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00377
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00265
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00185
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00355
+
+positive:empty, a fine bone china plate with a translucent quality, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00079
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00164
+
+positive:empty, a plate with a Japanese kintsugi repair, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00449
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00009
+
+positive:empty, a clear glass dessert plate, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00447
+
+positive:empty, a fine bone china plate with a translucent quality, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00443
+
+positive:empty, a plate with a rustic, unglazed rim, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00368
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00191
+
+positive:empty, a triangular-shaped appetizer plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00066
+
+positive:empty, a square plate with rounded corners, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00190
+
+positive:empty, a polished copper charger plate, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00112
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00177
+
+positive:empty, a plate with a soft, pastel gradient, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00328
+
+positive:empty, a plate with a watercolor floral design, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00028
+
+positive:empty, a minimalist grey ceramic side plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00220
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00345
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00039
+
+positive:empty, a porcelain plate with cherry blossom motifs, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00221
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00320
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00427
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00143
+
+positive:empty, a speckled off-white stoneware plate, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00108
+
+positive:empty, a porcelain plate with a gold rim, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00001
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00217
+
+positive:empty, a minimalist beige stoneware plate, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00184
+
+positive:empty, a porcelain plate with a gold rim, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_clean_00361
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00245
+
+positive:empty, a plate with a rustic, unglazed rim, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00239
+
+positive:empty, an octagonal-shaped plate, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_clean_00357
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_clean_00228
+
+positive:empty, an earthenware plate with a terracotta finish, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00133
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00032
+
+positive:empty, a rough-textured earthenware plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00171
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00119
+
+positive:empty, an octagonal-shaped plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00402
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00262
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00102
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00159
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00408
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00188
+
+positive:empty, a glossy red charger plate, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00223
+
+positive:empty, a bright yellow plastic picnic plate, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00196
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00043
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00004
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00248
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00430
+
+positive:empty, an octagonal-shaped plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00138
+
+positive:empty, a slate grey, rectangular serving plate, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00439
+
+positive:empty, a simple, unadorned wooden plate, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00222
+
+positive:empty, a minimalist plate with a single black line accent, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00389
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00136
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00116
+
+positive:empty, a plate with an impression of a fossil, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00337
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_clean_00438
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00157
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00367
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00323
+
+positive:empty, a flat, rimless serving platter, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00311
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_clean_00420
+
+positive:empty, a plate with an impression of a fossil, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00365
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00097
+
+positive:empty, a simple, unadorned wooden plate, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00295
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00436
+
+positive:empty, a heavy cast iron serving platter, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00137
+
+positive:empty, a plate with a playful cartoon character on it, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00405
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00366
+
+positive:empty, a plate with an abstract ink wash design, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00140
+
+positive:empty, a deep forest green ceramic plate, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00229
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00141
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00182
+
+positive:empty, a plate with a repeating fish scale pattern, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00256
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00300
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00359
+
+positive:empty, a minimalist plate with a single black line accent, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00360
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00287
+
+positive:empty, a solid mustard yellow plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00050
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00264
+
+positive:empty, a matte grey stoneware plate with a raised edge, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00011
+
+positive:empty, a porcelain plate with cherry blossom motifs, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00399
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00197
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00142
+
+positive:empty, a plate with a Japanese kintsugi repair, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00065
+
+positive:empty, a flat, rimless serving platter, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00084
+
+positive:empty, a plate made from recycled glass, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00024
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00346
+
+positive:empty, a charcoal-colored stone plate, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00036
+
+positive:empty, a minimalist grey ceramic side plate, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00216
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00317
+
+positive:empty, a plate with a turquoise crackle glaze, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00380
+
+positive:empty, a plate with a soft, pastel gradient, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00118
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00016
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00148
+
+positive:empty, plate with a galaxy-themed reactive glaze, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00250
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00114
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00017
+
+positive:empty, a plate with a subtle concentric circle design, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00350
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00090
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00225
+
+positive:empty, a solid mustard yellow plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00303
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_clean_00278
+
+positive:empty, a plate with a navy blue and white nautical theme, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00348
+
+positive:empty, a stark white, square minimalist plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00433
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00273
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00294
+
+positive:empty, a glossy red charger plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00258
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00015
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00169
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00178
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00242
+
+positive:empty, a plate with a single, elegant monogram, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_clean_00394
+
+positive:empty, a traditional enamel plate with a blue rim, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00353
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00401
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00046
+
+positive:empty, a solid mustard yellow plate, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00313
+
+positive:empty, a plate with an abstract ink wash design, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00271
+
+positive:empty, a plate with a turquoise crackle glaze, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00212
+
+positive:empty, a slate grey, rectangular serving plate, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00167
+
+positive:empty, a plate with a hand-painted striped pattern, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00326
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00104
+
+positive:empty, a classic porcelain plate with a blue willow pattern, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00214
+
+positive:empty, a plate with an intricate lace pattern pressed into the clay, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00315
+
+positive:empty, a plate with a hand-painted striped pattern, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00369
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00354
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00014
+
+positive:empty, a plate featuring a classic damask pattern, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00241
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00374
+
+positive:empty, a simple glass plate with a beveled edge, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00424
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00094
+
+positive:empty, a deep-dish pizza plate, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00322
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00237
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00395
+
+positive:empty, a square plate with rounded corners, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00282
+
+positive:empty, an iridescent glass plate that shimmers, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00161
+
+positive:empty, a slate grey, rectangular serving plate, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00019
+
+positive:empty, a simple glass plate with a beveled edge, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00335
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00154
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_clean_00123
+
+positive:empty, a charcoal-colored stone plate, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00312
+
+positive:empty, a charcoal-colored stone plate, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00042
+
+positive:empty, a plate with a rustic, unglazed rim, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00234
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00268
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00205
+
+positive:empty, a speckled off-white stoneware plate, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00275
+
+positive:empty, a deep-dish pizza plate, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00149
+
+positive:empty, a traditional enamel plate with a blue rim, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00437
+
+positive:empty, a stark white, square minimalist plate, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00291
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00351
+
+positive:empty, a plate with a subtle concentric circle design, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00344
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00253
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a surface with a detailed fish scale scallop pattern, underwater caustic light, sharp focus
+
+negative:
+---
+name: plate_clean_00319
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00400
+
+positive:empty, a plate with a bold, colorful pop-art design, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00289
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00325
+
+positive:empty, a plate with a glossy black finish, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00379
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00435
+
+positive:empty, a plate with a vibrant mosaic pattern rim, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00419
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00207
+
+positive:empty, a simple, unadorned wooden plate, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00329
+
+positive:empty, a plate with a scalloped edge, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00340
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00416
+
+positive:empty, a plate with a vibrant mosaic pattern rim, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00375
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00129
+
+positive:empty, a plate with a retro 70s-style pattern, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00064
+
+positive:empty, a traditional enamel plate with a blue rim, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00012
+
+positive:empty, a plate with an impression of a fossil, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00370
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00200
+
+positive:empty, a traditional enamel plate with a blue rim, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00152
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00135
+
+positive:empty, a plate with a turquoise crackle glaze, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00285
+
+positive:empty, a plate with a navy blue and white nautical theme, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00392
+
+positive:empty, a plate with a vibrant mosaic pattern rim, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00316
+
+positive:empty, a porcelain plate with a gold rim, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_clean_00087
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00244
+
+positive:empty, a minimalist grey ceramic side plate, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00382
+
+positive:empty, a plate with a playful cartoon character on it, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00134
+
+positive:empty, a translucent bone china plate, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00100
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00218
+
+positive:empty, a square plate with rounded corners, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00270
+
+positive:empty, a heavy cast iron serving platter, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00031
+
+positive:empty, a porcelain plate with a gold rim, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00022
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00111
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00060
+
+positive:empty, a plate with an abstract ink wash design, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00107
+
+positive:empty, a simple, elegant ivory-colored plate, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00210
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on a tablecloth with a Scandinavian minimalist floral pattern, bright, airy light, sharp focus
+
+negative:
+---
+name: plate_clean_00202
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00231
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00054
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00252
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00122
+
+positive:empty, a plate with an intricate lace pattern pressed into the clay, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_clean_00246
+
+positive:empty, a polished marble cheese plate, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00257
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00415
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00386
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00186
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00284
+
+positive:empty, a minimalist grey ceramic side plate, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00281
+
+positive:empty, a plate with a turquoise crackle glaze, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00332
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_clean_00219
+
+positive:empty, a lightweight bamboo eco-friendly plate, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00088
+
+positive:empty, a plate with a bold, colorful pop-art design, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00059
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00331
+
+positive:empty, a compartmentalized bento plate, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00174
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00007
+
+positive:empty, a slate grey, rectangular serving plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00146
+
+positive:empty, a plate with a Japanese kintsugi repair, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00058
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00450
+
+positive:empty, an amber-colored glass plate, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00103
+
+positive:empty, a vintage tin plate with a faded advertisement, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00301
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00249
+
+positive:empty, a polished marble cheese plate, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00189
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00151
+
+positive:empty, a rustic plate with a raw, unfinished edge, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00115
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00318
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00198
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00442
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00309
+
+positive:empty, a simple, flat white earthenware plate, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00095
+
+positive:empty, a heavy, durable melamine plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00113
+
+positive:empty, a minimalist beige stoneware plate, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00120
+
+positive:empty, a plate featuring a classic damask pattern, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00296
+
+positive:empty, a matte grey stoneware plate with a raised edge, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00082
+
+positive:empty, a plate with a raised-dot border, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00213
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00428
+
+positive:empty, a plate featuring a classic damask pattern, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00338
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00324
+
+positive:empty, a minimalist grey ceramic side plate, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00423
+
+positive:empty, an antique plate with a crackle glaze, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00261
+
+positive:empty, a clear glass dessert plate, photorealistic, top-down view, on a silk fabric with a Chinese dragon scale pattern, imperial, rich light, sharp focus
+
+negative:
+---
+name: plate_clean_00096
+
+positive:empty, a high-gloss white porcelain plate, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00412
+
+positive:empty, a classic porcelain plate with a blue willow pattern, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00321
+
+positive:empty, plate with a galaxy-themed reactive glaze, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00203
+
+positive:empty, a square matte black slate platter, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00176
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00304
+
+positive:empty, a plate with a sand-textured finish, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00037
+
+positive:empty, a porcelain plate with cherry blossom motifs, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00339
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00342
+
+positive:empty, a square plate with rounded corners, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00388
+
+positive:empty, a plate with a hand-painted striped pattern, photorealistic, top-down view, on a background with an African mudcloth pattern, earthy, raw light, sharp focus
+
+negative:
+---
+name: plate_clean_00121
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00125
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00183
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00238
+
+positive:empty, a lightweight bamboo eco-friendly plate, photorealistic, top-down view, on an embossed paper with a Celtic knotwork pattern, soft side light, sharp focus
+
+negative:
+---
+name: plate_clean_00206
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00334
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00255
+
+positive:empty, a deep-dish pizza plate, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00078
+
+positive:empty, a stark white, square minimalist plate, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00126
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00018
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on a ceramic tile with an intricate Mandala pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00297
+
+positive:empty, a plate with a Japanese kintsugi repair, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00003
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00180
+
+positive:empty, an earthenware plate with a terracotta finish, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00068
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00302
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a background with an abstract ink wash landscape pattern, minimalist, zen light, sharp focus
+
+negative:
+---
+name: plate_clean_00283
+
+positive:empty, a plate with a scalloped edge, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00052
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00269
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00333
+
+positive:empty, a plate with an intricate lace pattern pressed into the clay, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00298
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00226
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00378
+
+positive:empty, an iridescent glass plate that shimmers, photorealistic, top-down view, on a rich Persian rug with intricate oriental motifs, warm, low-key light, sharp focus
+
+negative:
+---
+name: plate_clean_00194
+
+positive:empty, a fine bone china plate with a translucent quality, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00279
+
+positive:empty, a rustic plate with a raw, unfinished edge, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00158
+
+positive:empty, a handcrafted plate with an irregular, organic shape, photorealistic, top-down view, on a cotton fabric with an Indian block print pattern, natural, uneven light, sharp focus
+
+negative:
+---
+name: plate_clean_00195
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00010
+
+positive:empty, a shallow pasta plate with a wide rim, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00330
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00224
+
+positive:empty, a plate with a bold, colorful pop-art design, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00029
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00117
+
+positive:empty, a plate with an abstract ink wash design, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00417
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00105
+
+positive:empty, a plate with a rustic, unglazed rim, photorealistic, top-down view, on a vintage paper with a botanical illustration pattern of herbs, focused study light, sharp focus
+
+negative:
+---
+name: plate_clean_00067
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00069
+
+positive:empty, a heavy, grooved stoneware plate, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00110
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00434
+
+positive:empty, a polished copper charger plate, photorealistic, top-down view, on a tile mosaic with a complex honeycomb pattern, clean ambient light, sharp focus
+
+negative:
+---
+name: plate_clean_00139
+
+positive:empty, a plate made from recycled glass, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00131
+
+positive:empty, a plate with a matte, velvety texture, photorealistic, top-down view, on a background with a leopard print pattern, fashionable, bold light, sharp focus
+
+negative:
+---
+name: plate_clean_00391
+
+positive:empty, a plate with a simple, elegant silver rim, photorealistic, top-down view, on a background with a seamless watercolor bleed texture, soft, wet-on-wet light, sharp focus
+
+negative:
+---
+name: plate_clean_00201
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00390
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00343
+
+positive:empty, a plate with a shiny, mirror-like chrome finish, photorealistic, top-down view, on a surface with a Rococo style flourish pattern, ornate, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00071
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a ceramic tile with a Portuguese 'Azulejo' blue and white pattern, bright coastal light, sharp focus
+
+negative:
+---
+name: plate_clean_00263
+
+positive:empty, a heavyweight, restaurant-quality white plate, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00243
+
+positive:empty, a plate with a navy blue and white nautical theme, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00150
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on an aged paper with a Chinese cloud motif xiangyun pattern, soft, antique light, sharp focus
+
+negative:
+---
+name: plate_clean_00230
+
+positive:empty, a solid cobalt blue glass plate, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00445
+
+positive:empty, a plate with a subtle, textured surface, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00181
+
+positive:empty, an amber-colored glass plate, photorealistic, top-down view, on a fabric with a Russian Khokhloma painting pattern, festive, bright light, sharp focus
+
+negative:
+---
+name: plate_clean_00422
+
+positive:empty, a lightweight bamboo eco-friendly plate, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00204
+
+positive:empty, a triangular-shaped appetizer plate, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00030
+
+positive:empty, a glossy red charger plate, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00173
+
+positive:empty, a plate featuring a classic damask pattern, photorealistic, top-down view, on a wallpaper with a Victorian damask pattern, moody, gaslight-style illumination, sharp focus
+
+negative:
+---
+name: plate_clean_00293
+
+positive:empty, a square sushi plate made of bamboo, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00232
+
+positive:empty, a plate with a single, off-center brush stroke, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00163
+
+positive:empty, a simple, elegant ivory-colored plate, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00349
+
+positive:empty, a plate with a subtle concentric circle design, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00267
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00049
+
+positive:empty, a textured linen-finish ceramic plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00356
+
+positive:empty, a plate with a watercolor floral design, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00432
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00055
+
+positive:empty, a vintage tin plate with a faded advertisement, photorealistic, top-down view, on a T-shirt with a screen-printed graphic pattern, flat, direct light, sharp focus
+
+negative:
+---
+name: plate_clean_00393
+
+positive:empty, a large, rustic stoneware serving plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00286
+
+positive:empty, a fine bone china plate with a translucent quality, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00299
+
+positive:empty, a rough-textured earthenware plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00358
+
+positive:empty, a handcrafted plate with an irregular, organic shape, photorealistic, top-down view, on a surface with a digital glitch art pattern, chaotic, neon light, sharp focus
+
+negative:
+---
+name: plate_clean_00026
+
+positive:empty, a polished marble cheese plate, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00048
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a background with a seamless Escher-esque impossible cube pattern, surreal, diffused light, sharp focus
+
+negative:
+---
+name: plate_clean_00387
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00093
+
+positive:empty, a simple, unadorned wooden plate, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00192
+
+positive:empty, a large, oval-shaped fish platter, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00025
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00280
+
+positive:empty, a plate with a navy blue and white nautical theme, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00208
+
+positive:empty, a plate with a reactive glaze finish, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00233
+
+positive:empty, a sky blue ceramic plate, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00431
+
+positive:empty, a metallic-finish decorative plate, photorealistic, top-down view, on a vinyl floor with a colorful Memphis design pattern, playful, hard light, sharp focus
+
+negative:
+---
+name: plate_clean_00352
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00098
+
+positive:empty, a dark acacia wood plate, photorealistic, top-down view, on a silk fabric with an interlocking chain-link pattern, glossy, reflective light, sharp focus
+
+negative:
+---
+name: plate_clean_00274
+
+positive:empty, a lightweight bamboo eco-friendly plate, photorealistic, top-down view, on a dark fabric with an Art Nouveau floral pattern, sensual, warm light, sharp focus
+
+negative:
+---
+name: plate_clean_00080
+
+positive:empty, a plate with a honeycomb texture, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00023
+
+positive:empty, a simple glass plate with a beveled edge, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00061
+
+positive:empty, a plate featuring a classic damask pattern, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00053
+
+positive:empty, an octagonal-shaped plate, photorealistic, top-down view, on a cotton fabric with a psychedelic tie-dye pattern, vibrant, festival light, sharp focus
+
+negative:
+---
+name: plate_clean_00038
+
+positive:empty, a rough-textured earthenware plate, photorealistic, top-down view, on a tablecloth with a Greek key border pattern, bright Mediterranean light, sharp focus
+
+negative:
+---
+name: plate_clean_00406
+
+positive:empty, an earthenware plate with a terracotta finish, photorealistic, top-down view, on a fabric with a Japanese 'Seigaiha' wave pattern, clean, directional light, sharp focus
+
+negative:
+---
+name: plate_clean_00044
+
+positive:empty, a bright yellow plastic picnic plate, photorealistic, top-down view, on a wrapping paper with a celestial star and moon pattern, magical, glowing light, sharp focus
+
+negative:
+---
+name: plate_clean_00160
+
+positive:empty, an earthenware plate with a terracotta finish, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00091
+
+positive:empty, a round white ceramic dinner plate, photorealistic, top-down view, on a fabric with a painterly, abstract brushstroke pattern, artist studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00373
+
+positive:empty, a plate with a subtle marble vein pattern, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00448
+
+positive:empty, a plate with a detailed bird illustration, photorealistic, top-down view, on a fabric with a modern camouflage pattern, neutral, outdoor light, sharp focus
+
+negative:
+---
+name: plate_clean_00165
+
+positive:empty, an amber-colored glass plate, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00008
+
+positive:empty, a plate with a retro 70s-style pattern, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00144
+
+positive:empty, a minimalist beige stoneware plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00272
+
+positive:empty, plate with a galaxy-themed reactive glaze, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00381
+
+positive:empty, a plate with an impression of a fossil, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00385
+
+positive:empty, an iridescent glass plate that shimmers, photorealistic, top-down view, on a damask fabric with a woven floral motif, side light to show sheen, sharp focus
+
+negative:
+---
+name: plate_clean_00145
+
+positive:empty, a polished marble cheese plate, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00209
+
+positive:empty, a modern plate with bold geometric shapes, photorealistic, top-down view, on a background with a French Toile de Jouy pastoral scene pattern, elegant, soft light, sharp focus
+
+negative:
+---
+name: plate_clean_00086
+
+positive:empty, a plate with a Japanese-style wave motif, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00407
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a surface with a Rorschach inkblot pattern, clinical, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00240
+
+positive:empty, a slate grey, rectangular serving plate, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00013
+
+positive:empty, a cream-colored plate with a brown speckled finish, photorealistic, top-down view, on a wallpaper with a William Morris print pattern, soft, classical light, sharp focus
+
+negative:
+---
+name: plate_clean_00072
+
+positive:empty, a blue and white checkered pattern plate, photorealistic, top-down view, on a woven rug with an Aztec geometric design, warm, earthy light, sharp focus
+
+negative:
+---
+name: plate_clean_00132
+
+positive:empty, a vintage plate with a delicate floral pattern, photorealistic, top-down view, on a ceramic surface with a blue and white Chintz floral pattern, clean daylight, sharp focus
+
+negative:
+---
+name: plate_clean_00166
+
+positive:empty, a pastel pink dessert plate, photorealistic, top-down view, on a floor with an Islamic geometric star pattern, dramatic overhead light, sharp focus
+
+negative:
+---
+name: plate_clean_00310
+
+positive:empty, a plate with an intricate lace pattern pressed into the clay, photorealistic, top-down view, on a curtain with an abstract watercolor floral pattern, soft backlight, sharp focus
+
+negative:
+---
+name: plate_clean_00047
+
+positive:empty, a handcrafted plate with an irregular, organic shape, photorealistic, top-down view, on a floor with a colorful terrazzo chip pattern, bright, modern light, sharp focus
+
+negative:
+---
+name: plate_clean_00404
+
+positive:empty, a plate with a glossy black finish, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00156
+
+positive:empty, a frosted glass appetizer plate, photorealistic, top-down view, on a silk scarf with a detailed Paisley pattern, rich, colorful light, sharp focus
+
+negative:
+---
+name: plate_clean_00085
+
+positive:empty, a solid mustard yellow plate, photorealistic, top-down view, on a paper with a colorful marbled Ebru pattern, soft, even light, sharp focus
+
+negative:
+---
+name: plate_clean_00290
+
+positive:empty, a plate with a rustic, unglazed rim, photorealistic, top-down view, on a wall with a Byzantine gold-leaf mosaic pattern, flickering candlelight, sharp focus
+
+negative:
+---
+name: plate_clean_00254
+
+positive:empty, a plate with a Japanese kintsugi repair, photorealistic, top-down view, on a fabric with a black and white Herringbone weave, crisp studio light, sharp focus
+
+negative:
+---
+name: plate_clean_00276
+
+positive:empty, a sea-green ceramic plate, photorealistic, top-down view, on a wallpaper with a gold Art Deco fan pattern, moody, glamorous light, sharp focus
+
+negative:
+---
+name: plate_clean_00175
+
+positive:empty, a rough-textured earthenware plate, photorealistic, top-down view, on a fabric with a tropical monstera leaf pattern, bright, dappled sunlight, sharp focus
+
+negative:
+---
+name: plate_clean_00251
+
+positive:empty, a triangular-shaped appetizer plate, photorealistic, top-down view, on a ceramic surface with a kintsugi gold repair pattern, respectful, focused light, sharp focus
+
+negative:
+---
+name: plate_clean_00193
+
+positive:empty, a simple, flat white earthenware plate, photorealistic, top-down view, on an indigo fabric with a Japanese Shibori dye pattern, deep, contrasting light, sharp focus
+
+negative:
+---
+name: plate_clean_00099
+
+positive:empty, a leaf-shaped ceramic serving dish, photorealistic, top-down view, on a leather surface with tooled floral patterns, rich workshop light, sharp focus
+
+negative:
+---
+name: plate_clean_00364
+
+positive:empty, an iridescent glass plate that shimmers, photorealistic, top-down view, on a wall with peeling layers of posters, gritty urban light, sharp focus
+
+negative:
+---
+name: plate_clean_00051
+
+positive:empty, a plate with a hand-thrown, artisanal feel, photorealistic, top-down view, on a woven Kente cloth with vibrant geometric patterns, strong African sunlight, sharp focus
+
+negative:
