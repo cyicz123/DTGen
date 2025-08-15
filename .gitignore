@@ -15,3 +15,4 @@ output/*
 !output/plate/
 !output/bowl/**/*.txt
 !output/plate/**/*.txt
+!output/merged_prompts.txt
