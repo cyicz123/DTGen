@@ -10,9 +10,9 @@ wheels/
 .venv
 models/
 datasets/
-output/*
-!output/bowl/
-!output/plate/
+output/
+!output/bowl/*.txt
+!output/plate/*.txt
 !output/bowl/**/*.txt
 !output/plate/**/*.txt
 !output/merged_prompts.txt
