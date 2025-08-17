@@ -14,11 +14,13 @@ from tqdm import tqdm
 server_address = "127.0.0.1:8188"
 client_id = str(uuid.uuid4())
 
-def queue_prompt(prompt, prompt_id):
-    p = {"prompt": prompt, "client_id": client_id, "prompt_id": prompt_id}
+def queue_prompt(prompt):
+    p = {"prompt": prompt, "client_id": client_id}
     data = json.dumps(p).encode('utf-8')
     req = urllib.request.Request("http://{}/prompt".format(server_address), data=data)
-    urllib.request.urlopen(req)
+    res = urllib.request.urlopen(req)
+    prompt_response = json.loads(res.read())
+    return prompt_response['prompt_id']
 
 def get_image(filename, subfolder, folder_type):
     data = {"filename": filename, "subfolder": subfolder, "type": folder_type}
@@ -31,9 +33,9 @@ def get_history(prompt_id):
         return json.loads(response.read())
 
 def get_images(ws, prompt):
-    prompt_id = str(uuid.uuid4())
-    queue_prompt(prompt, prompt_id)
+    prompt_id = queue_prompt(prompt)
     output_images = {}
+    pbar = None
     while True:
         out = ws.recv()
         if isinstance(out, str):
@@ -41,7 +43,20 @@ def get_images(ws, prompt):
             if message['type'] == 'executing':
                 data = message['data']
                 if data['node'] is None and data['prompt_id'] == prompt_id:
+                    if pbar:
+                        # Fill the bar to 100% before closing
+                        if pbar.n < pbar.total:
+                            pbar.update(pbar.total - pbar.n)
+                        pbar.close()
                     break #Execution is done
+            elif message['type'] == 'progress':
+                data = message['data']
+                if data['prompt_id'] == prompt_id:
+                    if pbar is None:
+                        pbar = tqdm(total=data['max'], desc="Generating image", position=1, leave=False)
+                    pbar.total = data['max']
+                    pbar.n = data['value']
+                    pbar.refresh()
         else:
             continue #previews are binary data
 
@@ -61,6 +76,7 @@ def main():
     parser = argparse.ArgumentParser(description='Generate images from prompt files.')
     parser.add_argument('path', type=str, help='Path to a txt file or a directory containing txt files.')
     parser.add_argument('--workflow', type=str, default='workflows/flux_api.json', help='Path to the workflow API JSON file.')
+    parser.add_argument('--positive-id', '-pid', type=str, default='6', help='The ID of the positive prompt node in the workflow.')
     args = parser.parse_args()
 
     try:
@@ -108,16 +124,14 @@ def main():
     ws = websocket.WebSocket()
     ws.connect("ws://{}/ws?clientId={}".format(server_address, client_id))
     
-    for txt_file in tqdm(txt_files_to_process, desc="Processing prompts"):
+    for txt_file in tqdm(txt_files_to_process, desc="Processing prompts", position=0):
         with open(txt_file, 'r') as f:
             prompt_from_file = f.readline().strip()
 
         prompt = json.loads(prompt_text)
         # Set the text prompt for our positive CLIPTextEncode
-        prompt["6"]["inputs"]["text"] = prompt_from_file
+        prompt[args.positive_id]["inputs"]["text"] = prompt_from_file
         
-        # Set the seed for our KSampler node to a random value
-        # prompt["3"]["inputs"]["seed"] = uuid.uuid4().int & (1<<32)-1
 
         images = get_images(ws, prompt)
         
@@ -130,7 +144,6 @@ def main():
                 output_path = os.path.join(output_dir, output_filename)
                 with open(output_path, 'wb') as img_file:
                     img_file.write(image_data)
-                print(f"Saved image to {output_path}")
 
     ws.close()
 
